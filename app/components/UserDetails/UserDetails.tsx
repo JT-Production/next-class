@@ -24,7 +24,7 @@ export default function UserDetails() {
           placeholder="John doe"
           className="border p-2 w-fit rounded-lg focus:outline-0 border-zinc-400"
         />
-        <label htmlFor="">Email :</label>
+        <label htmlFor="">Email:</label>
         <input
           type="email"
           name="email"
