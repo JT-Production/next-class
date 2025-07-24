@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main>
       <h1 className="text-2xl font-bold">Users</h1>
-      <Link href={"/users"}>View other users</Link>
+      <Link href={"/users"}>View other userss</Link>
       <ProductCard />
       <UserDetails/>
     </main>
